@@ -1,2 +1,2 @@
-# ML-AI-Arts-and-Design
+# Intelligence-ML-Arts-and-Design
 Repository of some expriments
